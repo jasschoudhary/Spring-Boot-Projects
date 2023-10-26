@@ -1,2 +1,2 @@
 # Spring-Boot-Projects
-spring core , spring boot , projects 
+This is the list of all spring boot projects.
